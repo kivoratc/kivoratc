@@ -4,6 +4,6 @@
 
 # Kivora TC
 
-Videojuegos y software.
+Videojuegos y Software.
 
 </div>
